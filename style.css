@@ -124,7 +124,7 @@ div.skills {
 }
 
 @media screen and (max-width:673px) {
-    .main-content {
+    .main-content{
         grid-template-columns: repeat(1, 1fr);
-        }
+    }
 }
